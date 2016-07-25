@@ -355,13 +355,13 @@ hr {
     background: #f0f url('../img/murtaza.jpg');
     background-size: cover; }
   .tile.tile-8 .tile-inner {
-    background: #f0f url('../img/eyibil.jpg');
+    background: #f0f url('../img/eyibil.JPG');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
     background: #f0f url('../img/temel.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #f0f url('../img/kakmaz.jpg');
+    background: #f0f url('../img/kakmaz.JPG');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
     background: #f0f url('../img/nurettin.jpg');
@@ -370,7 +370,7 @@ hr {
     background: #f0f url('../img/aygen.jpg');
     background-size: cover; }
   .tile.tile-256 .tile-inner {
-    background: #f0f url('../img/özagaç.jpg');
+    background: #f0f url('../img/özagaç.JPG');
     background-size: cover; }
   .tile.tile-512 .tile-inner {
     background: #f0f url('../img/kural.jpg');
@@ -382,10 +382,10 @@ hr {
     background: #f0f url('../img/fahri.jpeg');
     background-size: cover; }
   .tile.tile-4096 .tile-inner {
-    background: #f0f url('../img/cesur.jpg');
+    background: #f0f url('../img/cesur.JPG');
     background-size: cover; }
   .tile.tile-super .tile-inner {
-    background: #f0f url('../img/cesur.jpg');
+    background: #f0f url('../img/cesur.JPG');
     background-size: cover; }
 
 @-webkit-keyframes appear {
