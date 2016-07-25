@@ -370,22 +370,22 @@ hr {
     background: #f0f url('../img/aygen.jpg');
     background-size: cover; }
   .tile.tile-256 .tile-inner {
-    background: #f0f url('../img/cesur.jpg');
+    background: #f0f url('../img/özagaç.jpg');
     background-size: cover; }
   .tile.tile-512 .tile-inner {
     background: #f0f url('../img/kural.jpg');
     background-size: cover; }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('../img/fahri.jpeg');
-    background-size: cover; }
-  .tile.tile-2048 .tile-inner {
     background: #f0f url('../img/özkan.jpg');
     background-size: cover; }
+  .tile.tile-2048 .tile-inner {
+    background: #f0f url('../img/fahri.jpeg');
+    background-size: cover; }
   .tile.tile-4096 .tile-inner {
-    background: #f0f url('../img/özagaç.jpg');
+    background: #f0f url('../img/cesur.jpg');
     background-size: cover; }
   .tile.tile-super .tile-inner {
-    background: #f0f url('../img/özagaç.jpg');
+    background: #f0f url('../img/cesur.jpg');
     background-size: cover; }
 
 @-webkit-keyframes appear {
